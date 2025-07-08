@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "sqlite": {
+      "command": "node",
+      "args": ["dist/index.js"],
+      "cwd": "d:/mcp/quick-sqlite3",
+      "env": {}
+    }
+  }
+}
