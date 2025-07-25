@@ -2,6 +2,10 @@
 
 A Model Context Protocol (MCP) server that provides tools for querying SQLite databases. This server allows AI assistants to interact with SQLite databases by listing tables, describing schemas, and executing queries.
 
+<a href="https://glama.ai/mcp/servers/@sam2332/mcp-quick-sqlite3">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@sam2332/mcp-quick-sqlite3/badge" alt="SQLite Server MCP server" />
+</a>
+
 ## Features
 
 - **Connect to SQLite databases**: Connect to any SQLite database file
